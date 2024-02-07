@@ -6,4 +6,4 @@ Recognizing this challenge, Fractal offers a solution by providing a decentraliz
 
 Through Fractal's platform, rollup operators have the flexibility to select the number of sequencers they require for their specific needs. Once chosen, these sequencers are seamlessly assigned, by the [orchestration-layer.md](orchestration-layer.md "mention"), from the pool to the respective rollup, ensuring efficient and reliable sequencing without the need for extensive setup or maintenance efforts.
 
-By offering access to a decentralized pool of sequencers, Fractal empowers rollup operators to focus their efforts on innovating and growing their networks, rather than being burdened by the complexities of sequencer management. This approach not only enhances the scalability and accessibility of rollup deployments but also contributes to the overall advancement of decentralized finance ecosystems.
+By offering access to a decentralized pool of sequencers, Fractal empowers rollup operators to focus their efforts on innovating and growing their rollups, rather than being burdened by the complexities of sequencer management.
