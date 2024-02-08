@@ -10,3 +10,7 @@
 * [Prover Layer](architecture/prover-layer.md)
 * [Orchestration Layer](architecture/orchestration-layer.md)
 * [Aggregation Layer](architecture/aggregation-layer.md)
+
+## Integrations
+
+* [Data Availability](integrations/data-availability.md)
