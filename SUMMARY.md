@@ -11,6 +11,11 @@
 * [Orchestration Layer](architecture/orchestration-layer.md)
 * [Aggregation Layer](architecture/aggregation-layer.md)
 
+## Tokenomics
+
+* [Distribution](tokenomics/distribution.md)
+* [Supply](tokenomics/supply.md)
+
 ## Integrations
 
 * [Data Availability](integrations/data-availability.md)
