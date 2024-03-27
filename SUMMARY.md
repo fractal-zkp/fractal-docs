@@ -11,6 +11,12 @@
 * [Orchestration Layer](architecture/orchestration-layer.md)
 * [Aggregation Layer](architecture/aggregation-layer.md)
 
+## Portal
+
+* [Overview](portal/overview.md)
+* [Rollups](portal/rollups.md)
+* [Deploy](portal/deploy.md)
+
 ## Tokenomics
 
 * [Distribution](tokenomics/distribution.md)
