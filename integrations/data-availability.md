@@ -2,7 +2,7 @@
 
 **External Data Availability Integration with Fractal**
 
-Fractal offers a native data availability solution as an integral part of its infrastructure via the [fractal-hub-availability-and-validity-layer.md](../architecture/fractal-hub-availability-and-validity-layer.md "mention"). However, recognizing the diverse needs and preferences of different rollups, some may opt to utilize external data availability providers. To accommodate this flexibility, Fractal supports seamless integrations with third-party data availability providers, allowing rollups to choose a provider that best suits their requirements.
+Fractal offers a native data availability solution as an integral part of its infrastructure via the [fractal-hub-availability-and-finality-layer.md](../architecture/fractal-hub-availability-and-finality-layer.md "mention"). However, recognizing the diverse needs and preferences of different rollups, some may opt to utilize external data availability providers. To accommodate this flexibility, Fractal supports seamless integrations with third-party data availability providers, allowing rollups to choose a provider that best suits their requirements.
 
 **Benefits of External Data Availability Integration:**
 

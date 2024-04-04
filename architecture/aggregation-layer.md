@@ -4,7 +4,7 @@ The aggregation layer serves a critical role in optimizing the settlement proces
 
 We are currently exploring an integration with Polygon's Agg layer to serve as the aggregation layer for Fractal. You can read more about Polygon's Agg layer in their blog [here](https://polygon.technology/blog/aggregated-blockchains-a-new-thesis).
 
-At its core, the aggregation layer sources and aggregate zero-knowledge proofs associated with rollup blocks. One of the most significant advantages of the aggregation layer's functionality lies in its ability to achieve substantial economic savings during the settlement process, particularly when settling to the Ethereum blockchain. By aggregating proofs within the zkVM, only a single aggregated proof needs to be verified during settlement, significantly reducing the computational overhead and associated costs.
+At its core, the aggregation layer sources and aggregate zero-knowledge proofs associated with rollup blocks. One of the most significant advantages of the aggregation layer's functionality lies in its ability to achieve substantial economic savings during the settlement process, particularly when settling to the Ethereum blockchain. In addition the aggregation layer also offers safety gurantees for cross-rollup transactions.
 
 Moreover, the aggregation layer's capabilities offer scalable economic benefits that grow in tandem with the expansion of the Fractal network. As more rollups join the ecosystem, the aggregation layer's efficiency improves, leading to a reduction in settlement costs per rollup. This economic scalability underscores the value proposition of the Fractal platform, making it an attractive and cost-effective solution for decentralized rollups.
 

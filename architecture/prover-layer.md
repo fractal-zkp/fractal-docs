@@ -6,6 +6,4 @@ Recognizing this challenge, Fractal offers a solution by providing a decentraliz
 
 Upon deploying a rollup on the Fractal, provers will be automatically assigned, by the [orchestration-layer.md](orchestration-layer.md "mention"), from the pool to their respective rollups. This streamlined approach ensures that rollups have access to the necessary provers without the need for extensive setup or resource allocation efforts.
 
-Furthermore, in addition to generating proofs for transactions and blocks within the rollup network, there is also a need to generate proofs produced by the [aggregation-layer.md](aggregation-layer.md "mention"). In this regard, provers from the pool are also assigned to this task, further enhancing the efficiency of Fractal.
-
 By offering access to a decentralized pool of provers, Fractal empowers rollup operators to overcome resource constraints and focus their efforts on innovating and expanding their rollups.
