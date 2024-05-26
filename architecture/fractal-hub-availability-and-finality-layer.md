@@ -1,5 +1,5 @@
-# Fractal Hub - Availability & Validity Layer
+# Fractal Hub - Availability & Finality Layer
 
-Fractal's primary chain, the Fractal Hub, is maintained by validators who oversee consensus. Rollups, independent networks with their own state, are connected to the Fractal Hub. Rollups leverage the Fractal Hub's consensus mechanism, facilitating fast-finality and interoperability with other rollups. Nodes responsible for submitting rollup blocks, known as sequencers, submit rollup blocks for inclusion in the Fractal Hub.
+The Fractal Hub is maintained by validators who oversee consensus. Rollups, independent networks with their own state, are connected to the Fractal Hub. Rollups leverage the Fractal Hub's consensus mechanism, facilitating fast-finality and interoperability with other rollups. Nodes responsible for submitting rollup blocks, known as sequencers, submit rollup blocks for inclusion in the Fractal Hub.
 
 Validators on the Fractal Hub ensure the validity of both Fractal Hub and rollup blocks. They maintain a sufficient number of rollup blocks locally to provide data availability to peers lacking data. Sequencers produce rollup blocks, while Fractal Hub validators verify their validity and provide data availability. Validators issue statements about rollup block validity to other validators. Once criteria are met, Fractal Hub block authors select rollup blocks for inclusion in Fractal Hub blocks and subsequently [aggregation-layer.md](aggregation-layer.md "mention") blocks.

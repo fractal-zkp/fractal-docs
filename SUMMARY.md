@@ -7,6 +7,7 @@
 * [Overview](architecture/overview.md)
 * [Fractal Hub - Availability & Finality Layer](architecture/fractal-hub-availability-and-finality-layer.md)
 * [Unity - Validity Sequencer Layer](architecture/unity-validity-sequencer-layer.md)
+* [Atomic Cross-Rollup Interoperability](architecture/atomic-cross-rollup-interoperability.md)
 * [Prover Layer](architecture/prover-layer.md)
 * [Orchestration Layer](architecture/orchestration-layer.md)
 * [Aggregation Layer](architecture/aggregation-layer.md)
